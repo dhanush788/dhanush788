@@ -15,7 +15,8 @@
 </p>
 
 
-https://holopin.me/dhanush788
+[![An image of @dhanush788's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhanush788)](https://holopin.io/@dhanush788)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"><a href="https://skillicons.dev" >
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,nextjs,replit,c,cpp,firebase,nodejs,php,express,mysql&perline=8" />
