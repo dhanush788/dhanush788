@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nextjs,Typescript**
 
-- 💬 Ask me about **React,Nodejs**
+- 💬 Ask me about **React,Nodejs** 
 
 - 📫 How to reach me **dhanushpk50@gmail.com**
 
