@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dhanush</h1>
-<h3 align="center">A passionate frontend developer from Kochi, India</h3>
+<h3 align="center">A passionate software developer from Kochi, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanush788&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush788" /> </p>
 
-- 🌱 I’m currently learning **Nextjs,Typescript**
+- 🌱 I’m currently learning **Nestjs,Typescript**
 
 - 💬 Ask me about **React,Nodejs** 
 
