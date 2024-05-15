@@ -21,8 +21,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,nextjs,replit,c,cpp,firebase,nodejs,php,express,mysql&perline=8" />
   </a>
   </p>
-[![An image of @dhanush788's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhanush788)](https://holopin.io/@dhanush788)
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush788&show_icons=true&locale=en&layout=compact&theme=nord" alt="dhanush788" /></p> -->
 
+[![An image of @dhanush788's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhanush788)](https://holopin.io/@dhanush788)
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush788&theme=dracula" alt="dhanush788" /></p> -->
 
