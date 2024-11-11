@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhanush</h1>
 <h3 align="center">A passionate software developer from Kochi, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanush788&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush788" /> </p>
 
-- 🌱 I’m currently learning **Nestjs,Typescript**
+- 🌱 I’m currently learning **Swift,Nestjs,Typescript**
 
 - 💬 Ask me about **React,Nodejs** 
 
@@ -18,11 +17,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"><a href="https://skillicons.dev" >
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,nextjs,replit,c,cpp,firebase,nodejs,php,express,mysql&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,nextjs,swift,firebase,nodejs,express,mysql&perline=8" />
   </a>
   </p>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush788&show_icons=true&locale=en&layout=compact&theme=nord" alt="dhanush788" /></p> -->
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush788&show_icons=true&locale=en&layout=compact&theme=nord" alt="dhanush788" /></p> 
 
 [![An image of @dhanush788's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhanush788)](https://holopin.io/@dhanush788)
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush788&theme=dracula" alt="dhanush788" /></p> -->
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush788&theme=dracula" alt="dhanush788" /></p> 
 
