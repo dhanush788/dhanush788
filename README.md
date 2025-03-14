@@ -21,5 +21,3 @@
   </a>
   </p>
 
-[![An image of @dhanush788's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhanush788)](https://holopin.io/@dhanush788)
-
