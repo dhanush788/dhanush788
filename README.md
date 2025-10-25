@@ -1,16 +1,38 @@
-<h1 align="center">Hi 👋, I'm Dhanush</h1>
-<h3 align="center">A passionate software developer from Kochi, India</h3>
+# Dhanush P K
 
-- 📫 How to reach me **dhanushpk50@gmail.com**
+A concise tagline or short summary about yourself, e.g., *Software Engineer specialising in web development, cloud infrastructure, and automation.*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/dhanush-p-k-a6aa1a1b6" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanush-p-k-a6aa1a1b6" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@dhanushpk50" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dhanushpk50" height="30" width="40" />
-  </a>
-</p>
+---
 
+## Projects
 
+| Project Name | Description | Technologies | Repository |
+|--------------|-------------|--------------|------------|
+| Project 1 | A brief summary of what the project does. | PHP, MySQL, AWS Lambda | [Link](https://github.com/yourusername/project1) |
+| Project 2 | A brief summary of what the project does. | FastAPI, PostgreSQL | [Link](https://github.com/yourusername/project2) |
+| Project 3 | A brief summary of what the project does. | React, Node.js | [Link](https://github.com/yourusername/project3) |
+| Project 4 | A brief summary of what the project does. | Docker, Kubernetes | [Link](https://github.com/yourusername/project4) |
+
+---
+
+## Skills
+
+**Programming Languages:** PHP, Python, JavaScript, Bash  
+**Frameworks & Libraries:** FastAPI, React  
+**Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, CI/CD, CloudWatch  
+**Databases:** MySQL, PostgreSQL  
+**Tools & Utilities:** Git, SonarQube, phpMyAdmin  
+
+---
+
+## About
+
+Experienced in building scalable web applications and cloud-based solutions. Skilled in backend and frontend development, infrastructure automation, and performance optimisation. Passionate about learning new technologies and improving workflow efficiency.  
+
+---
+
+## Contact
+
+**Email:** dhanushpk50@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/dhanush-p-k/
+**GitHub:** https://github.com/dhanush788  
